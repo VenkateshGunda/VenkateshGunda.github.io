@@ -1,4 +1,8 @@
 ---
-title:YoYO
-blog:true
+title: YoYO
+layout: post
+blog: true
+date: 2017-02-02 21:59
+
+
 ---
